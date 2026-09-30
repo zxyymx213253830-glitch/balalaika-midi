@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.suo
+*.pdb
+*.ilk
+*.exe
+*.obj
+
+# 原始音频（体积大 / 版权考虑，需要的话用 Git LFS 单独加）
+*.mp3
+*.m4a
+*.wav
+
+# 系统
+.DS_Store
+Thumbs.db
